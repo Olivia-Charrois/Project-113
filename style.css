@@ -1,0 +1,16 @@
+body {
+  background: darkmagenta;
+}
+
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+ border:1px solid black;
+}
+image {
+  width: 250;
+  height:auto;
+  position:110,250;
+}
